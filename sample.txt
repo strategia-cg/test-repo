@@ -1,1 +1,2 @@
+Adding a new line 
 Created a new sample.txt file on the main branch at 10:24 AM on Wednesday September 24, 2025.
